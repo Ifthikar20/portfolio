@@ -7,33 +7,36 @@ import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Hacker Rank Javascript Basics cert",
     image: Proj1,
     skills: "JavaScript,HTML,CSS",
+    cert: true
   },
   {
-    name: "Ecommerce Website",
+    name: "npm global component creation",
     image: Proj2,
     skills: "React,Node.js,MongoDB",
+    cert: true
   },
-  {
-    name: "Spotify Clone",
-    image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
-  },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
-    name: "Mobile Game",
-    image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+  // {
+  //   name: "Spotify Clone",
+  //   image: Proj3,
+  //   skills: "React,Node.js,MongoDB,SpotifyAPI",
+  // },
+  // {
+  //   name: "Social Media Website",
+  //   image: Proj4,
+  //   skills: "React,Node.js,MySQL,GraphQL",
+  //   cert: true
+  // },
+  // {
+  //   name: "Dashboard Visualizer",
+  //   image: Proj5,
+  //   skills: "JavaScript,HTML,CSS",
+  // },
+  // {
+  //   name: "Mobile Game",
+  //   image: Proj6,
+  //   skills: "React Native,JavaScript,HTML,CSS",
+  // },
 ];
